@@ -1,0 +1,29 @@
+{
+  "name": "just-react",
+  "version": "1.0.2",
+  "description": "A simple React CLI with Typescript,Pritter,Eslint,Antd,Less.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ccloveak/just-react.git"
+  },
+  "keywords": [
+    "react",
+    "cli",
+    "antd",
+    "less",
+    "TypeScript"
+  ],
+  "author": "せいい",
+  "license": "MIT",
+  "bin": {
+    "just-react": "./bin/just-react.js"
+  },
+  "bugs": {
+    "url": "https://github.com/ccloveak/just-react/issues"
+  },
+  "homepage": "https://github.com/ccloveak/just-react#readme"
+}
